@@ -33,8 +33,7 @@ Table of contents
 >
 <br>
 
-
-![citadel-07.png](https://i.postimg.cc/1tyqnY5B/citadel-07.png)]
+<img src="https://i.postimg.cc/1tyqnY5B/citadel-07.png" alt="Dungeon" width="240"  title="Dungeon" />
 
 ## About
 
